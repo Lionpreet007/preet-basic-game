@@ -1,0 +1,374 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Create project scaffold": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440492269
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440501652
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440588598
+      }
+    ],
+    "1.2 Implement the configuration system": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440493665
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440593596
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440644709
+      }
+    ],
+    "2.1 Implement physics core": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440493866
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440649312
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440974246
+      }
+    ],
+    "2.2 Implement Character rendering": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440494009
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441296864
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441368946
+      }
+    ],
+    "3.1 Implement obstacle movement and pruning": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440494125
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440650293
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440975201
+      }
+    ],
+    "3.2 Implement obstacle generation": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440494248
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440651708
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440976432
+      }
+    ],
+    "3.3 Implement obstacle-pair rendering": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440494383
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441370076
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441424247
+      }
+    ],
+    "4.1 Implement background and cloud rendering": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440494498
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441211329
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441290803
+      }
+    ],
+    "5.1 Implement the master `step` transition function": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440494629
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441112137
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441191919
+      }
+    ],
+    "5.2 Implement collision detection": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440494746
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440652533
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440977506
+      }
+    ],
+    "5.3 Implement the requestAnimationFrame loop and bootstrap": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440494908
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441464952
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441502534
+      }
+    ],
+    "6. Checkpoint - Ensure all core tests pass": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440495044
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441609089
+      }
+    ],
+    "7.1 Implement the input handler": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440495237
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441210295
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441291649
+      }
+    ],
+    "7.2 Implement game-flow overlays and wiring": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440495394
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441503230
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441572404
+      }
+    ],
+    "8.1 Implement scoring core": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440495516
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440653463
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440978226
+      }
+    ],
+    "8.2 Implement the storage adapter": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440495718
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441209287
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441292655
+      }
+    ],
+    "8.3 Implement Score_Display rendering": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440495842
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441423932
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441464129
+      }
+    ],
+    "9.1 Implement high-score parsing and error handling": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440495953
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440982743
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441103990
+      }
+    ],
+    "10. Final checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440496058
+      },
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441609686
+      }
+    ],
+    "1. Project structure and configuration system": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790440644982
+      }
+    ],
+    "9. Testing and polish": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441104215
+      }
+    ],
+    "4. Background cloud system": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441290980
+      }
+    ],
+    "2. Player physics and rendering": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441369328
+      }
+    ],
+    "3. Pipe generation and management": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441424441
+      }
+    ],
+    "8. Scoring and persistence": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441464429
+      }
+    ],
+    "5. Core game loop and state management": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441502943
+      }
+    ],
+    "7. Input handling and game flow": [
+      {
+        "executionId": "f0b1caa1-0d3e-44fc-a47f-34397483fb27",
+        "chatSessionId": "sess_20a8ed91-b1f9-4fe2-a4d9-220835c5e0e4",
+        "timestamp": 1790441572761
+      }
+    ]
+  }
+}
